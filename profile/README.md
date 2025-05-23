@@ -20,11 +20,11 @@ PHAIDRA is used by a **wide range of institutions** from universities to librari
 
 ## Key Features Relevant to Developers:
 
-✔ **Open Source and Customizable**: Built with flexibility in mind, PHAIDRA provides APIs, Vue.js components, and a robust backend for tailored solutions. Adaptable to diverse organizational needs 
-✔ **Robust Foundation**: Built on the **Fedora repository** 
-✔ **Metadata Automation**: Automates best practices for metadata creation to enhance discoverability and reuse 
-✔ **FAIR Data Compliance**: Ensures data is findable, accessible, interoperable, and reusable, supporting global standards 
-✔ **Comprehensive Data Management**: Streamlines the entire lifecycle of digital assets, from secure storage to advanced metadata automation 
+✔ **Open Source and Customizable**: Built with flexibility in mind, PHAIDRA provides APIs, Vue.js components, and a robust backend for tailored solutions. Adaptable to diverse organizational needs  
+✔ **Robust Foundation**: Built on the **Fedora repository**  
+✔ **Metadata Automation**: Automates best practices for metadata creation to enhance discoverability and reuse  
+✔ **FAIR Data Compliance**: Ensures data is findable, accessible, interoperable, and reusable, supporting global standards  
+✔ **Comprehensive Data Management**: Streamlines the entire lifecycle of digital assets, from secure storage to advanced metadata automation  
 
 ## Our Community
 
