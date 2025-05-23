@@ -38,7 +38,7 @@ Explore the code, report bugs, suggest features, or contribute code. Your contri
 
 *   🔍 **Explore the code**: Browse the repositories within this organization.
 *   📚 **Read the documentation**: Find guides on setting up, configuring, and contributing.
-*   🤝 **Join the Community**: Connect with other developers and users. We are an active and growing community of more than 20 global institutions. You can join us at our annual PHAIDRACon events or through our regular podcasts and discussions.
+*   🤝 **Join the [Community](https://community.phaidra.org/)**: Connect with other developers and users. We are an active and growing community of more than 20 global institutions. You can join us at our annual PHAIDRACon events or through our regular podcasts and discussions.
 
 Let’s preserve, share, and create together.
 
