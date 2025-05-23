@@ -28,7 +28,7 @@ PHAIDRA is used by a **wide range of institutions** from universities to librari
 
 ## Our Community
 
-At the heart of PHAIDRA is an **active and growing community of more than 20 global institutions**. This collaborative network shares innovations, insights, and best practices. Contributing to PHAIDRA means joining a supportive group committed to the principles of open academia and open access.
+At the heart of PHAIDRA is an **active and growing community of more than 25 global institutions**. This collaborative network shares innovations, insights, and best practices. Contributing to PHAIDRA means joining a supportive group committed to the principles of open academia and open access.
 
 We encourage cross-disciplinary collaboration, breaking down silos to encourage serendipitous discoveries and innovative reuse across fields.
 
