@@ -1,8 +1,6 @@
 # PHAIDRA: Permanent Hosting, Archiving, and Indexing of Digital Resources and Assets
 
-![PHAIDRA Logo Placeholder](link_to_logo_if_available)
-
-PHAIDRA is an **open-source platform** designed to simplify the management, preservation, and reuse of research data and digital assets across academia, cultural heritage institutions, and research organizations. Built on the robust Fedora repository, PHAIDRA extends its capabilities with an integrated stack of open-source tools, APIs, and frameworks, delivering a comprehensive solution for modern research data management.
+📌 PHAIDRA is an **open-source platform** designed to simplify the management, preservation, and reuse of research data and digital assets across academia, cultural heritage institutions, and research organizations. Built on the robust Fedora repository, PHAIDRA extends its capabilities with an integrated stack of open-source tools, APIs, and frameworks, delivering a comprehensive solution for modern research data management.
 
 Originally developed by the University of Vienna, PHAIDRA is now a community-driven project supporting universities, cultural institutions, and research organizations around the globe.
 
@@ -22,11 +20,11 @@ PHAIDRA is used by a **wide range of institutions** from universities to librari
 
 ## Key Features Relevant to Developers:
 
-*   ✅ **Open Source and Customizable**: Built with flexibility in mind, PHAIDRA provides APIs, Vue.js components, and a robust backend for tailored solutions. Adaptable to diverse organizational needs.
-*   ✅ **Robust Foundation**: Built on the **Fedora repository**.
-*   ✅ **Metadata Automation**: Automates best practices for metadata creation to enhance discoverability and reuse.
-*   ✅ **FAIR Data Compliance**: Ensures data is findable, accessible, interoperable, and reusable, supporting global standards.
-*   ✅ **Comprehensive Data Management**: Streamlines the entire lifecycle of digital assets, from secure storage to advanced metadata automation.
+✔ **Open Source and Customizable**: Built with flexibility in mind, PHAIDRA provides APIs, Vue.js components, and a robust backend for tailored solutions. Adaptable to diverse organizational needs.
+✔ **Robust Foundation**: Built on the **Fedora repository**.
+✔ **Metadata Automation**: Automates best practices for metadata creation to enhance discoverability and reuse.
+✔ **FAIR Data Compliance**: Ensures data is findable, accessible, interoperable, and reusable, supporting global standards.
+✔ **Comprehensive Data Management**: Streamlines the entire lifecycle of digital assets, from secure storage to advanced metadata automation.
 
 ## Our Community
 
