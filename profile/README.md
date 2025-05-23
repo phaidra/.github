@@ -14,7 +14,7 @@ We believe in creating a world where digital assets are not just stored and forg
 
 PHAIDRA is built with **flexibility in mind**. It's an open-source solution that redefines how digital assets are managed, preserved, and shared. If you're passionate about open science, cultural heritage, research data management, or building robust, scalable systems, PHAIDRA offers exciting opportunities to contribute.
 
-The platform is **built on the Fedora repository and extended with customizable APIs and Vue.js components**, providing diverse areas for development and innovation.
+The platform is **built on the [Fedora repository](https://fedorarepository.org/) and extended with customizable APIs and Vue.js components**, providing diverse areas for development and innovation.
 
 PHAIDRA is used by a **wide range of institutions** from universities to libraries, museums, and research organizations. Contributing means your work will have a real impact on how digital resources are managed and preserved globally.
 
