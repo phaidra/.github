@@ -46,7 +46,6 @@ Let’s preserve, share, and create together.
 
 PHAIDRA supports organizations of all sizes and disciplines. Whether they are managing research datasets, digitized artifacts, or multimedia collections, PHAIDRA’s flexible framework empowers them. Institutions include universities, libraries, museums, and research organizations.
 
-## Learn More
+## Quick Links
 
-*   🌐 Visit our website: phaidra.org
-*   ❓ Learn more about what PHAIDRA is: (Link if available - mentioned in source)
+🌐 [Official Website](https://phaidra.org/) | 🤝 [PHAIDRA community](https://community.phaidra.org/) |❓[About PHAIDRA](https://phaidra.org/about/)
